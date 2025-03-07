@@ -11,17 +11,12 @@ A mobile barcode/QR code scanner application built with Xamarin.Forms that allow
 
 ## Screenshots
 
-### Login Screen
-![Login Screen](./screenshots/login-screen.png)
-*Screenshot showing the app's login interface*
+# Screenshots
 
-### Scanner Interface
-![Scanner Interface](./screenshots/scanner-interface.png)
-*Screenshot demonstrating the barcode/QR code scanning functionality*
-
-### Cart Management
-![Cart Management](./screenshots/cart-management.png)
-*Screenshot of the shopping cart interface with scanned items*
+| Login Screen | Scanner Interface | Cart Management |
+|:---:|:---:|:---:|
+| ![Login Screen](./screenshots/login-screen.png) | ![Scanner Interface](./screenshots/scanner-interface.png) | ![Cart Management](./screenshots/cart-management.png) |
+| *Login Interface* | *Scanner Interface* | *Cart Management* |
 
 ## Technologies Used
 
