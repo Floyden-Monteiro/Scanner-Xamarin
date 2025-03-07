@@ -16,3 +16,4 @@ C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\obj\Debug\netstandard2.0\sca
 C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\obj\Debug\netstandard2.0\Views\CartPage.xaml.g.cs
 C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\obj\Debug\netstandard2.0\Views\ScannerPage.xaml.g.cs
 C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\obj\Debug\netstandard2.0\scanner.sourcelink.json
