@@ -1,0 +1,13 @@
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\bin\Release\netstandard2.0\publish\scanner.dll
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\bin\Release\netstandard2.0\publish\scanner.deps.json
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\bin\Release\netstandard2.0\publish\scanner.pdb
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\bin\Release\netstandard2.0\publish\Newtonsoft.Json.dll
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\bin\Release\netstandard2.0\publish\System.Numerics.Vectors.dll
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\bin\Release\netstandard2.0\publish\Xamarin.Essentials.dll
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\bin\Release\netstandard2.0\publish\Xamarin.Forms.Core.dll
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\bin\Release\netstandard2.0\publish\Xamarin.Forms.Platform.dll
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\bin\Release\netstandard2.0\publish\Xamarin.Forms.Xaml.dll
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\bin\Release\netstandard2.0\publish\ZXing.Net.Mobile.Core.dll
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\bin\Release\netstandard2.0\publish\ZXingNetMobile.dll
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\bin\Release\netstandard2.0\publish\zxing.portable.dll
+C:\Users\fmont\Desktop\MAUI\scanner\scanner\scanner\bin\Release\netstandard2.0\publish\ZXing.Net.Mobile.Forms.dll

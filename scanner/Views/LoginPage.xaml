@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="scanner.Views.LoginPage"
+             Title="Login"
+             BackgroundColor="#F5F5F5">
+
+    <StackLayout Padding="30">
+        <Image Source="login_logo.png"
+               WidthRequest="100"
+               HeightRequest="200"
+               HorizontalOptions="Center"/>
+        <Label Text="Welcome" FontSize="28" HorizontalOptions="Center" />
+        <Label Text="Login to continue" FontSize="28" TextColor="Gray" HorizontalOptions="Center" FontAttributes="Bold" Padding="0,0,0,40" />
+
+        <Entry Placeholder="Username" Text="{Binding Username}" />
+        <Entry Placeholder="Password" Text="{Binding Password}" IsPassword="True" />
+
+    
+        <Label Text="{Binding ErrorMessage}"
+               TextColor="Red"
+               IsVisible="{Binding IsErrorVisible}"
+               HorizontalOptions="Start"
+               Margin="0,5,0,0" />
+
+        <Frame Padding="0,30,0,0" HasShadow="True" CornerRadius="10" BackgroundColor="Transparent">
+            <Button Text="Login"
+                    Command="{Binding LoginCommand}"
+                    BackgroundColor="#03DAC5"
+                    TextColor="White"
+                    FontAttributes="Bold"
+                    CornerRadius="50"
+                    HeightRequest="60"
+                    WidthRequest="200"
+                    HorizontalOptions="Center"
+                    Padding="10"/>
+        </Frame>
+    </StackLayout>
+</ContentPage>
